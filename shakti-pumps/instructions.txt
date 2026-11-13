@@ -1,0 +1,527 @@
+SHAKTI PUMPS
+PREMIUM WEBSITE BLUEPRINT
+Brand Positioning
+Shakti Pumps should be presented as a professional industrial pumps, motors, valves and spare-parts business, with a strong focus on reliable products, genuine components and customer support.
+Core Business Categories
+Pumps | Motors | Valves | KSB Products | Spare Parts | Industrial Components
+Primary Location
+Karnal, Haryana
+Key Positioning
+KSB Dealer in Haryana
+The exact KSB designation used on the website must match official business documentation.
+________________________________________
+1. WEBSITE DESIGN DIRECTION
+Overall Look
+Premium • Modern • Industrial • Clean • Trustworthy
+The website should feel like an established engineering/industrial brand.
+Visual Language
+•	Deep professional blue
+•	White background
+•	Dark charcoal/grey typography
+•	Large product photography
+•	Clean grids
+•	Sharp but subtle cards
+•	Minimal shadows
+•	Plenty of white space
+•	Smooth, restrained animations
+Design Principle
+The website should look expensive because it is clean, not because it contains excessive graphics.
+Avoid
+•	Too many colours
+•	Heavy gradients
+•	Flashy animations
+•	Overcrowded pages
+•	Excessive text
+•	Low-quality product images
+•	Unnecessary stock photographs
+•	Fake awards/certificates
+•	Unsupported claims
+•	Repeated information
+________________________________________
+2. HEADER / NAVIGATION
+Logo
+SHAKTI PUMPS
+Main Menu
+Home
+About Us
+Products
+KSB
+Spare Parts
+Industries
+Resources
+Contact
+Right CTA
+Get a Quote
+Header should remain clean and sticky while scrolling.
+________________________________________
+3. HOME PAGE
+HERO SECTION
+The first screen should immediately tell the visitor what the company does.
+Main Heading
+Pumps, Motors, Valves & Spare Parts
+Supporting Line
+Reliable products and component solutions for water, industrial and commercial applications.
+Brand Line
+KSB Dealer in Haryana
+Buttons
+Explore Products
+Send an Enquiry
+Hero Visual
+Use one high-quality industrial/product photograph.
+Possible visual:
+•	Premium pump installation
+•	Pump + motor combination
+•	Industrial valve
+•	Professional product arrangement
+Avoid using a collage of 10–15 unrelated products.
+________________________________________
+4. QUICK BUSINESS INTRODUCTION
+Immediately below the hero:
+SHAKTI PUMPS
+Reliable Products. Practical Solutions. Responsive Support.
+A short 2–3 line introduction explaining that Shakti Pumps deals in pumps, motors, valves, KSB products and spare parts.
+Quick Facts
+Pumps
+Motors
+Valves
+Spare Parts
+This section should be visually minimal.
+________________________________________
+5. PRODUCT CATEGORIES
+OUR PRODUCTS
+Heading
+Products Built Around Your Requirement
+Product Cards
+PUMPS
+Pumping solutions for a range of water and industrial applications.
+View Products →
+MOTORS
+Motor solutions for pumping and equipment requirements.
+View Products →
+VALVES
+Solutions for fluid control and flow management.
+View Products →
+KSB PRODUCTS
+KSB pumps, valves and related product requirements.
+Explore KSB →
+SPARE PARTS
+Pump, motor and valve spare parts and components.
+Explore Spare Parts →
+INDUSTRIAL COMPONENTS
+Selected components and accessories for maintenance and replacement requirements.
+View Components →
+________________________________________
+6. KSB FEATURE SECTION
+This should be one of the strongest sections on the Home Page.
+KSB PRODUCTS & SOLUTIONS
+Heading
+KSB Products. Reliable Support.
+Content
+Shakti Pumps provides KSB products and related requirements for customers in Haryana, including relevant pumps, valves and spare parts.
+CTA
+Explore KSB Products
+Visual
+Professional KSB product imagery, used only where permitted/appropriate.
+Important
+Use only officially permitted KSB logos, product photographs and dealership wording.
+________________________________________
+7. SPARE PARTS — MAJOR BUSINESS SECTION
+Instead of hiding spare parts under “Products”, give them their own strong section.
+SPARE PARTS & COMPONENTS
+Heading
+The Right Part. When You Need It.
+Supporting Text
+A wide range of pump, motor and valve spare parts for maintenance, replacement and equipment requirements.
+Categories
+Pump Spare Parts
+Motor Spare Parts
+Valve Spare Parts
+Mechanical Seals
+Bearings
+Impellers
+Shafts
+Couplings
+Other Components
+CTA
+Find Your Spare Part
+________________________________________
+8. PRODUCT SEARCH
+FIND WHAT YOU NEED
+Search Bar
+Search by product name, model or spare part...
+Filters
+Category
+Brand
+Model
+Application
+Example
+Customer searches:
+“KSB pump spare”
+Website shows relevant products/spares.
+CTA
+Request Availability / Quote
+________________________________________
+9. FEATURED PRODUCTS
+FEATURED PRODUCTS
+Show selected important products rather than every product.
+Each card:
+Product Image
+Product Name
+Short description
+View Details
+Request Quote
+Important
+Actual product specifications must be verified before publishing.
+________________________________________
+10. APPLICATIONS / INDUSTRIES
+SOLUTIONS FOR DIFFERENT APPLICATIONS
+Use professional visual cards.
+WATER & IRRIGATION
+Pumping solutions for water movement and irrigation requirements.
+AGRICULTURE
+Relevant pumping and equipment solutions for agricultural applications.
+INDUSTRIAL
+Products supporting industrial pumping and fluid-handling requirements.
+BUILDING SERVICES
+Pumps, valves and related equipment for building-service applications.
+MANUFACTURING
+Relevant pumping and component requirements for manufacturing environments.
+WASTEWATER
+Products and components for relevant wastewater and sewage applications.
+Only applications actually served by Shakti Pumps should be published.
+________________________________________
+11. WHY SHAKTI PUMPS
+WHY CHOOSE SHAKTI PUMPS
+Keep this section factual and premium.
+PRODUCT KNOWLEDGE
+Understanding of pumps, motors, valves and related spare parts.
+PRODUCT RANGE
+Multiple categories covering equipment and replacement requirements.
+RELIABLE SUPPLY
+Support for routine, replacement and maintenance requirements.
+RESPONSIVE SUPPORT
+Quick assistance for product enquiries and requirements.
+KSB EXPERIENCE
+Knowledge of relevant KSB products and associated requirements.
+________________________________________
+12. ABOUT SHAKTI PUMPS
+ABOUT US
+Heading
+Engineering Products. Practical Support.
+Content Direction
+Shakti Pumps is a Haryana-based business dealing in pumps, motors, valves, KSB products and industrial spare parts.
+Our focus is on providing quality-oriented products, reliable supply and responsive support according to customer requirements.
+About Page Should Include
+•	Company introduction
+•	Business focus
+•	Product categories
+•	KSB association
+•	Customer approach
+•	Location
+•	Contact information
+Optional Verified Information
+If available:
+•	Established year
+•	Business experience
+•	Team
+•	Major milestones
+•	Certifications
+•	Achievements
+No unsupported numbers or claims should be added.
+________________________________________
+13. PRODUCT DETAIL PAGE
+Every important product/category should have a professional detail page.
+Structure
+Product Name
+Large product image
+Overview
+Short professional description.
+Key Features
+3–6 important features.
+Technical Specifications
+Only verified specifications.
+Applications
+Where the product is used.
+Available Models
+Model numbers / variants.
+Related Products
+Compatible or related items.
+CTA
+Need This Product?
+Request a Quote
+________________________________________
+14. SPARE PART DETAIL PAGE
+Spare parts need an even more practical structure.
+Product
+Spare Part Name
+Information
+•	Part name
+•	Compatible equipment
+•	Model
+•	Application
+•	Material/specification where applicable
+•	Availability
+•	Quantity
+Enquiry Form
+Name
+Company
+Mobile
+Product / Model
+Required Spare
+Quantity
+Message
+CTA
+Send Spare Parts Enquiry
+________________________________________
+15. BRANDS / PARTNERS
+OUR BRANDS & PRODUCT ASSOCIATIONS
+Display only brands that Shakti Pumps genuinely deals with and is permitted to display.
+Each brand can have:
+Logo
+Short description
+View Products
+This section should be updated as the product portfolio grows.
+________________________________________
+16. RESOURCES
+A professional industrial website should have a small resource centre.
+RESOURCES
+Product Catalogues
+Brochures
+Technical Documents
+Product Datasheets
+Installation / Maintenance Information
+Only documents actually available should be uploaded.
+This section can help customers and also improve the website's professional credibility.
+________________________________________
+17. FAQ
+FREQUENTLY ASKED QUESTIONS
+Questions should be based on real customer enquiries.
+Examples:
+Which KSB products do you supply?
+Do you supply pump spare parts?
+Can I enquire for a specific pump model?
+Do you supply valve spare parts?
+How can I request a quotation?
+Where is Shakti Pumps located?
+Keep answers short and factual.
+________________________________________
+18. ENQUIRY SYSTEM
+The website should be designed around enquiries.
+Every important product page should have:
+GET A QUOTE
+Form:
+Name
+Company Name
+Mobile Number
+Email
+Product Required
+Model / Specification
+Quantity
+Message
+Alternative Buttons
+Call Now
+WhatsApp
+Send Enquiry
+________________________________________
+19. CONTACT PAGE
+LET'S DISCUSS YOUR REQUIREMENT
+SHAKTI PUMPS
+Karnal, Haryana
+Contact
+Phone: 8901394131
+Enquiries: 7015994301
+Complaints / Support: 9588343114
+Email: info@shaktikarnal.com
+Include
+•	Google Maps
+•	Contact form
+•	WhatsApp button
+•	Call button
+•	Email button
+________________________________________
+20. FOOTER
+Footer should be compact and professional.
+SHAKTI PUMPS
+Pumps | Motors | Valves | KSB Products | Spare Parts
+QUICK LINKS
+Home
+About Us
+Products
+KSB
+Spare Parts
+Industries
+Resources
+Contact
+PRODUCT CATEGORIES
+Pumps
+Motors
+Valves
+KSB Products
+Spare Parts
+Industrial Components
+CONTACT
+Karnal, Haryana
+Phone
+Email
+WhatsApp
+LEGAL
+Privacy Policy
+Terms & Conditions
+©️ Shakti Pumps. All Rights Reserved.
+________________________________________
+21. MOBILE EXPERIENCE
+The website must be designed mobile-first.
+On mobile:
+•	Sticky call button
+•	Sticky WhatsApp button
+•	Easy product navigation
+•	Large readable text
+•	Fast loading
+•	Simple enquiry forms
+•	Product images optimised for mobile
+A customer should be able to enquire about a spare part in less than a minute.
+________________________________________
+22. SEO STRUCTURE
+The website should be optimised naturally for relevant searches.
+Examples
+KSB Dealer in Haryana
+KSB Pumps Haryana
+Pump Spare Parts Haryana
+Pump Spare Parts Karnal
+Industrial Pumps Karnal
+Valve Supplier Haryana
+Motor Spare Parts Haryana
+KSB Spare Parts
+Pumps & Valves Supplier
+SEO should focus on useful content, not keyword stuffing.
+________________________________________
+23. WEBSITE PERFORMANCE
+Developer should ensure:
+•	Fast page loading
+•	Optimised images
+•	Mobile responsiveness
+•	SSL / HTTPS
+•	Secure forms
+•	Search engine indexing
+•	Google Search Console setup
+•	Analytics setup
+•	Proper page titles
+•	Meta descriptions
+•	SEO-friendly URLs
+•	Sitemap
+•	Regular backups
+________________________________________
+24. ADMIN / CONTENT MANAGEMENT
+The website should be easy for the business to update.
+Admin should allow:
+•	Add product
+•	Edit product
+•	Remove product
+•	Add product image
+•	Update specifications
+•	Add new brand
+•	Upload catalogue
+•	Update contact information
+•	Manage enquiries
+The website should not require a developer for every small product update.
+________________________________________
+25. PHOTOGRAPHY & IMAGES
+This is very important for the premium look.
+Use
+•	Actual product photographs
+•	High-resolution images
+•	Clean backgrounds
+•	Consistent image ratios
+•	Professional industrial installation photographs
+•	Brand-approved product images where applicable
+Avoid
+•	Random Google images
+•	Watermarked images
+•	Different image sizes everywhere
+•	Poor-quality photographs
+•	Overuse of generic stock photos
+________________________________________
+26. CONTENT STYLE
+All website copy should be:
+Professional
+Confident
+Clear
+Short
+Technical where required
+Easy for customers to understand
+Avoid excessive marketing language.
+Instead of:
+“We are the world's leading revolutionary solution provider...”
+Use:
+“We supply pumps, motors, valves and spare parts for a range of water and industrial applications.”
+The website should prove professionalism through presentation and information, not through exaggerated claims.
+________________________________________
+27. FINAL HOME PAGE FLOW
+The final Home Page should follow this sequence:
+01 — Hero
+Pumps, Motors, Valves & Spare Parts
+↓
+02 — Shakti Pumps Introduction
+↓
+03 — Product Categories
+Pumps | Motors | Valves | KSB | Spare Parts
+↓
+04 — KSB Products
+↓
+05 — Spare Parts & Components
+↓
+06 — Product Search
+↓
+07 — Featured Products
+↓
+08 — Industries / Applications
+↓
+09 — Why Shakti Pumps
+↓
+10 — About Shakti Pumps
+↓
+11 — Brands / Product Associations
+↓
+12 — Resources
+↓
+13 — FAQ
+↓
+14 — Get a Quote
+↓
+15 — Contact
+↓
+16 — Footer
+________________________________________
+28. THE FINAL BRAND EXPERIENCE
+When someone visits the website, within a few seconds they should understand:
+WHO ARE WE?
+Shakti Pumps
+WHAT DO WE DO?
+Pumps • Motors • Valves • Spare Parts
+WHAT BRAND / ASSOCIATION?
+KSB Dealer in Haryana
+WHERE ARE WE?
+Karnal, Haryana
+WHAT CAN THE CUSTOMER DO?
+Find a Product • Find a Spare • Request a Quote • Contact Us
+________________________________________
+FINAL DIRECTION
+The website should not feel like a simple online catalogue.
+It should feel like a professional industrial business platform where a customer can:
+Discover → Understand → Verify → Enquire
+The design should remain premium, clean and minimal, while the product catalogue and spare-parts section should provide enough technical information for serious customers.
+
+
+
+
+
+Check Page: 
+12. About Page and Its Contents
+
+13. PRODUCT DETAIL PAGE and its Contents
+
+14. SPARE PART DETAIL PAGE
+
+15. BRANDS / PARTNERS
+
+16. RESOURCES
