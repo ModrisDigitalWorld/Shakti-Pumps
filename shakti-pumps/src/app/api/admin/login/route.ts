@@ -18,7 +18,7 @@ export async function POST(req: Request) {
   let ok = false;
   let token = "";
   try {
-    ok = checkCredentials(parsed.data.email, parsed.data.password);
+  ok = await checkCredentials(parsed.data.email, parsed.data.password);
     if (ok) token = await createSessionToken(parsed.data.email.trim().toLowerCase());
   } catch (e) {
     return NextResponse.json({ error: (e as Error).message }, { status: 500 });

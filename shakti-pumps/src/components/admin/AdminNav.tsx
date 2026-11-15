@@ -79,6 +79,7 @@ const ITEMS = [
   { label: "Resources", href: "/admin/resources" },
   { label: "FAQs", href: "/admin/faqs" },
   { label: "Site settings", href: "/admin/settings" },
+    { label: "Account", href: "/admin/account" },
 ];
 
 export function AdminNav({ email }: { email: string }) {

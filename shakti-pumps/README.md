@@ -1,13 +1,13 @@
 # Shakti Pumps — website + admin
 
-Next.js 15 (App Router) · Tailwind CSS v4 · Supabase Postgres via Drizzle · Cloudinary for images/documents.
+Next.js 16 (App Router) · Tailwind CSS v4 · Supabase Postgres via Drizzle · Cloudinary for images/documents.
 Public site (SEO-focused, mobile-first) and a password-protected admin panel in one app.
 
 ## 1. Setup
 
 ```bash
 npm install
-cp .env.example .env.local      # then fill in values
+cp .env .env                    # then fill in values
 npm run db:generate             # only if you change src/lib/db/schema.ts
 npm run db:migrate              # applies ./drizzle migrations to Supabase
 npm run db:seed                 # categories, KSB brand, industries, FAQs, default settings
@@ -19,7 +19,7 @@ npm run dev                     # http://localhost:3000
 ### Environment variables
 | Variable | Purpose |
 |---|---|
-| `DATABASE_URL` | Supabase → Project Settings → Database → Connection string (use the **transaction pooler**, port 6543, in production) |
+| `DATABASE_URL` | Supabase -> Project Settings -> Database -> Connection string (use the **transaction pooler**, port 6543, in production) |
 | `ADMIN_EMAIL`, `ADMIN_PASSWORD` | The admin login |
 | `AUTH_SECRET` | 32+ random characters (`openssl rand -base64 48`) — signs the admin session cookie |
 | `CLOUDINARY_CLOUD_NAME/API_KEY/API_SECRET` | Image & document uploads (admin can also paste any image URL) |
