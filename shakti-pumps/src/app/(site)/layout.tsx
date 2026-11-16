@@ -7,6 +7,7 @@ import { getSettings } from "@/lib/settings";
 import { CookieConsent } from "@/components/site/CookieConsent";
 import { siteUrl } from "@/lib/seo";
 
+
 export const revalidate = 60;
 
 export default async function SiteLayout({ children }: { children: React.ReactNode }) {

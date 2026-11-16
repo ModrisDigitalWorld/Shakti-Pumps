@@ -134,7 +134,7 @@ export default async function HomePage() {
         <div className="hero-bg absolute inset-0 -z-10" aria-hidden />
         <div className="container-x grid items-center gap-10 py-10 sm:py-20 lg:grid-cols-[1.05fr_0.95fr] lg:gap-8 lg:py-12">
           <div className="min-w-0">
-            <p className="animate-rise inline-flex items-center gap-2.5 rounded-full border border-white/20 bg-white/5 px-4 py-1.5 text-xs font-semibold uppercase tracking-[0.18em] text-brand-200">
+            <p className="animate-rise inline-flex items-center gap-2.5 rounded-full border border-white/20 bg-white/5 px-4 py-1.5 text-xs font-serif uppercase tracking-[0.18em] text-brand-200">
               <span className="pulse-dot h-2 w-2 rounded-full bg-brand-300" aria-hidden />
               {s.ksbDesignation}
             </p>
@@ -212,10 +212,10 @@ export default async function HomePage() {
               <span className="h-1.5 w-1.5 rounded-full bg-brand-600"></span>
               {s.businessName}
             </p>
-            <h2 className="h2 text-balance font-base tracking-tight text-brand-950">
+            <h2 className="h2 text-balance  tracking-tight text-brand-950">
               {s.tagline}
             </h2>
-            <p className="lead max-w-xl text-neutral-600">
+            <p className="lead max-w-xl text-neutral-600 ">
               {s.businessName} deals in pumps, motors, valves, KSB products and
               spare parts, supplying customers across Haryana from Karnal.
             </p>
