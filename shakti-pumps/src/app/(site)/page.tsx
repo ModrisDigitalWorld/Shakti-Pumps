@@ -129,25 +129,45 @@ export default async function HomePage() {
           </div>
         </div>
       </section> */}
-            {/* 01 — HERO */}
+      {/* 01 — HERO */}
       <section className="relative isolate overflow-hidden bg-brand-950 text-white">
         <div className="hero-bg absolute inset-0 -z-10" aria-hidden />
         <div className="container-x grid items-center gap-10 py-10 sm:py-20 lg:grid-cols-[1.05fr_0.95fr] lg:gap-8 lg:py-12">
           <div className="min-w-0">
             <p className="animate-rise inline-flex items-center gap-2.5 rounded-full border border-white/20 bg-white/5 px-4 py-1.5 text-xs font-serif uppercase tracking-[0.18em] text-brand-200">
-              <span className="pulse-dot h-2 w-2 rounded-full bg-brand-300" aria-hidden />
+              <span
+                className="pulse-dot h-2 w-2 rounded-full bg-brand-300"
+                aria-hidden
+              />
               {s.ksbDesignation}
             </p>
-            <h1 className="animate-rise mt-6 text-[2.5rem] font-semibold leading-[1.05] tracking-tight sm:text-5xl lg:text-[3.75rem]" style={{ animationDelay: "80ms" }}>
+            <h1
+              className="animate-rise mt-6 text-[2.5rem] font-semibold leading-[1.05] tracking-tight sm:text-5xl lg:text-[3.75rem]"
+              style={{ animationDelay: "80ms" }}
+            >
               Pumps, Motors, Valves
               <span className="block text-brand-300">&amp; Spare Parts</span>
             </h1>
-            <p className="animate-rise mt-6 max-w-xl text-lg leading-relaxed text-white/75" style={{ animationDelay: "160ms" }}>
-              Reliable products and component solutions for water, industrial and commercial applications.
+            <p
+              className="animate-rise mt-6 max-w-xl text-lg leading-relaxed text-white/75"
+              style={{ animationDelay: "160ms" }}
+            >
+              Reliable products and component solutions for water, industrial
+              and commercial applications.
             </p>
-            <div className="animate-rise mt-9 flex flex-col gap-3 sm:flex-row" style={{ animationDelay: "240ms" }}>
-              <Link href="/products" className="btn btn-light py-3.5 sm:px-7">Explore Products</Link>
-              <Link href="/get-a-quote" className="btn btn-ghost-light py-3.5 sm:px-7">Send an Enquiry</Link>
+            <div
+              className="animate-rise mt-9 flex flex-col gap-3 sm:flex-row"
+              style={{ animationDelay: "240ms" }}
+            >
+              <Link href="/products" className="btn btn-light py-3.5 sm:px-7">
+                Explore Products
+              </Link>
+              <Link
+                href="/get-a-quote"
+                className="btn btn-ghost-light py-3.5 sm:px-7"
+              >
+                Send an Enquiry
+              </Link>
             </div>
 
             {/* <div className="animate-rise mt-10 max-w-xl" style={{ animationDelay: "320ms" }}>
@@ -167,10 +187,23 @@ export default async function HomePage() {
             </div> */}
           </div>
 
-          <div className="animate-rise relative ml-auto w-full min-w-0 max-w-[34rem]" style={{ animationDelay: "200ms" }}>
-            <div className="absolute -inset-6 -z-10 rounded-full bg-brand-500/20 blur-3xl" aria-hidden />
+          <div
+            className="animate-rise relative ml-auto w-full min-w-0 max-w-[34rem]"
+            style={{ animationDelay: "200ms" }}
+          >
+            <div
+              className="absolute -inset-6 -z-10 rounded-full bg-brand-500/20 blur-3xl"
+              aria-hidden
+            />
             {s.heroImageUrl ? (
-              <Img src={s.heroImageUrl} alt={`${s.businessName} — pumps and motors`} ratio="4/3" priority sizes="(min-width: 1024px) 45vw, 100vw" className="hero-photo bg-transparent" />
+              <Img
+                src={s.heroImageUrl}
+                alt={`${s.businessName} — pumps and motors`}
+                ratio="4/3"
+                priority
+                sizes="(min-width: 1024px) 45vw, 100vw"
+                className="hero-photo bg-transparent"
+              />
             ) : (
               <div className="float-y relative rounded-2xl border border-white/15 bg-white/[0.05] p-5 shadow-2xl shadow-black/30 backdrop-blur-sm sm:p-7">
                 <PumpIllustration className="mx-auto w-full max-w-xl" />
@@ -183,7 +216,6 @@ export default async function HomePage() {
           </div>
         </div>
       </section>
-      
 
       {/* 02 — INTRODUCTION */}
       {/* <section className="border-b border-line">
@@ -221,7 +253,7 @@ export default async function HomePage() {
             </p>
           </div>
 
-          <dl className="grid grid-cols-2 gap-4">
+          {/* <dl className="grid grid-cols-2 gap-4">
             {["Pumps", "Motors", "Valves", "Spare Parts"].map((f) => (
               <div
                 key={f}
@@ -233,7 +265,36 @@ export default async function HomePage() {
                 </dt>
               </div>
             ))}
-          </dl>
+          </dl> */}
+          <ul className="grid grid-cols-2 gap-4">
+            {[
+              { name: "Pumps", href: "/products?category=pumps" },
+              { name: "Motors", href: "/products?category=motors" },
+              { name: "Valves", href: "/products?category=valves" },
+              { name: "Spare Parts", href: "/spare-parts" },
+            ].map((f) => (
+              <li key={f.name}>
+                <Link
+                  href={f.href}
+                  className="group relative flex h-full items-center justify-between gap-3 overflow-hidden rounded-xl border border-line bg-white p-6 shadow-xs transition-all duration-300 hover:-translate-y-0.5 hover:border-brand-200 hover:shadow-md focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-500"
+                >
+                  <span
+                    className="absolute left-0 top-0 h-1 w-full bg-gradient-to-r from-brand-500 to-brand-700 opacity-0 transition-opacity duration-300 group-hover:opacity-100"
+                    aria-hidden
+                  />
+                  <span className="text-lg font-semibold text-brand-950 transition-colors group-hover:text-brand-700">
+                    {f.name}
+                  </span>
+                  <span
+                    className="text-brand-500 transition-transform duration-300 group-hover:translate-x-1"
+                    aria-hidden
+                  >
+                    ➜
+                  </span>
+                </Link>
+              </li>
+            ))}
+          </ul>
         </div>
       </section>
 

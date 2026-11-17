@@ -2,10 +2,10 @@ import type { Metadata, Viewport } from "next";
 import Script from "next/script";
 import "./globals.css";
 import { siteUrl } from "@/lib/seo";
-import { Inter, Manrope } from "next/font/google";
+// import { Inter, Manrope } from "next/font/google";
 
-const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
-const manrope = Manrope({ subsets: ["latin"], variable: "--font-manrope", display: "swap" });
+// const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
+// const manrope = Manrope({ subsets: ["latin"], variable: "--font-manrope", display: "swap" });
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl()),
@@ -25,7 +25,8 @@ export const viewport: Viewport = { themeColor: "#0a2552", width: "device-width"
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const ga = process.env.NEXT_PUBLIC_GA_ID;
   return (
-    <html lang="en-IN" className={`${inter.variable} ${manrope.variable}`}>
+    // <html lang="en-IN" className={`${inter.variable} ${manrope.variable}`}>
+    <html lang="en-IN">
       <body>
         {children}
         {ga && (
