@@ -152,7 +152,7 @@ export function AdminNav({ email }: { email: string }) {
           </a>
           <button
             onClick={logout}
-            className="inline-flex items-center gap-1.5 rounded-lg border border-red-500/30 bg-red-500/10 px-3 py-1.5 text-xs font-medium text-red-300 transition-all hover:bg-red-500/20 hover:text-red-200 hover:border-red-500/50 active:scale-95"
+            className="inline-flex items-center gap-1.5 rounded-lg border border-red-500/30 bg-red-500/10 px-3 py-1.5 text-xs font-medium text-red-300 transition-all hover:bg-red-500/20 hover:text-red-200 hover:border-red-500/50 active:scale-95 cursor-pointer"
           >
             <svg
               className="h-3.5 w-3.5 text-red-400"

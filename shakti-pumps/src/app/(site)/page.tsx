@@ -8,6 +8,7 @@ import { ProductCard } from "@/components/site/ProductCard";
 import { SearchForm } from "@/components/site/SearchForm";
 import { brandHref, categoryHref } from "@/components/site/links";
 import { SPARE_TYPES } from "@/lib/constants";
+import { HeroSlider } from "@/components/site/HeroSlider";
 import {
   getApplicationOptions,
   getBrands,
@@ -130,7 +131,7 @@ export default async function HomePage() {
         </div>
       </section> */}
       {/* 01 — HERO */}
-      <section className="relative isolate overflow-hidden bg-brand-950 text-white">
+      {/* <section className="relative isolate overflow-hidden bg-brand-950 text-white">
         <div className="hero-bg absolute inset-0 -z-10" aria-hidden />
         <div className="container-x grid items-center gap-10 py-10 sm:py-20 lg:grid-cols-[1.05fr_0.95fr] lg:gap-8 lg:py-12">
           <div className="min-w-0">
@@ -170,7 +171,7 @@ export default async function HomePage() {
               </Link>
             </div>
 
-            {/* <div className="animate-rise mt-10 max-w-xl" style={{ animationDelay: "320ms" }}>
+            <div className="animate-rise mt-10 max-w-xl" style={{ animationDelay: "320ms" }}>
               <form action="/products" method="get" role="search" className="flex overflow-hidden rounded-md bg-white shadow-lg shadow-black/25">
                 <label htmlFor="hero-q" className="sr-only">Search products and spare parts</label>
                 <input id="hero-q" name="q" type="search" placeholder="Search product, model or spare part…" className="min-w-0 flex-1 px-4 py-3.5 text-base text-ink outline-none placeholder:text-slate-400" />
@@ -184,7 +185,7 @@ export default async function HomePage() {
                   </li>
                 ))}
               </ul>
-            </div> */}
+            </div> 
           </div>
 
           <div
@@ -215,8 +216,9 @@ export default async function HomePage() {
             )}
           </div>
         </div>
-      </section>
-
+      </section> */}
+      {/* 01 — HERO */}
+      <HeroSlider ksbDesignation={s.ksbDesignation} />
       {/* 02 — INTRODUCTION */}
       {/* <section className="border-b border-line">
         <div className="container-x grid gap-10 py-14 lg:grid-cols-[1.2fr_1fr] lg:items-center lg:py-16">
@@ -510,7 +512,7 @@ export default async function HomePage() {
       </section>
 
       {/* 06 — SEARCH */}
-      <section className="section-alt section" id="search">
+      {/* <section className="section-alt section" id="search">
         <div className="container-x">
           <p className="eyebrow inline-flex items-center gap-2 rounded-full bg-brand-50 px-3 py-1 text-brand-700">
             <span className="h-1.5 w-1.5 rounded-full bg-brand-600"></span>
@@ -537,7 +539,7 @@ export default async function HomePage() {
             </p>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* 07 — FEATURED */}
       {featured.items.length > 0 && (

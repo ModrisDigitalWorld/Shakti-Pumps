@@ -286,7 +286,7 @@ export function Header({ name }: { name: string }) {
                 href={l.href}
                 aria-current={active(l.href) ? "page" : undefined}
                 className={cn(
-                  "rounded px-3 py-2 text-base font-serif transition-colors",
+                  "rounded px-3 py-2 text-lg transition-colors",
                   active(l.href) ? "text-brand-700" : "text-ink/80 hover:text-brand-700",
                 )}
               >

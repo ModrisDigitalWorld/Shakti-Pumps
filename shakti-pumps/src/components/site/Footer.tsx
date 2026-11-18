@@ -6,6 +6,7 @@ import { telHref, waHref } from "@/lib/utils";
 import { Logo } from "./Header";
 import { categoryHref } from "./links";
 import { CookieSettingsButton } from "./CookieConsent";
+import { SocialLinks } from "./SocialLinks";
 
 export function Footer({ s, categories }: { s: SiteSettings; categories: Category[] }) {
   return (
@@ -15,6 +16,7 @@ export function Footer({ s, categories }: { s: SiteSettings; categories: Categor
           <Logo name={s.businessName} light />
           <p className="mt-4 text-sm leading-relaxed">Pumps | Motors | Valves | KSB Products | Spare Parts</p>
           <p className="mt-3 text-sm text-white/50">{s.ksbDesignation}</p>
+            <SocialLinks s={s} />
         </div>
 
         <div>

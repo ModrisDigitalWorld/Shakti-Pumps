@@ -13,6 +13,11 @@ export interface SiteSettings {
   ksbImageUrl: string;
   aboutImageUrl: string;
   establishedYear: string;
+  facebook: string;
+  instagram: string;
+  twitter: string;
+  linkedin: string;
+  youtube: string;
 }
 
 export const DEFAULT_SETTINGS: SiteSettings = {
@@ -25,10 +30,16 @@ export const DEFAULT_SETTINGS: SiteSettings = {
   supportPhone: "1234567890",
   email: "info@abc.com",
   whatsapp: "1234567890",
-  address: "Plot No. 46, Sector 3, Industrial Area, HSIIDC, Karnal, Haryana 132001",
+  address:
+    "Plot No. 46, Sector 3, Industrial Area, HSIIDC, Karnal, Haryana 132001",
   mapEmbedUrl: "https://www.google.com/maps?q=Karnal%2C%20Haryana&output=embed",
   heroImageUrl: "",
   ksbImageUrl: "",
   aboutImageUrl: "",
   establishedYear: "",
+  facebook: "",
+  instagram: "",
+  twitter: "",
+  linkedin: "",
+  youtube: "",
 };

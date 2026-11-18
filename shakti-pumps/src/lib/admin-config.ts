@@ -221,7 +221,12 @@ export const SETTINGS_FIELDS: Field[] = [
   { name: "address", label: "Address", type: "textarea", required: true },
   { name: "mapEmbedUrl", label: "Google Maps embed URL", type: "text", help: "Google Maps → Share → Embed a map → copy the src URL." },
   { name: "establishedYear", label: "Established year (optional)", type: "text", half: true, help: "Only if verified. Leave empty to hide." },
-  { name: "heroImageUrl", label: "Home hero image", type: "image", help: "One high-quality industrial / product photograph." },
+  // { name: "heroImageUrl", label: "Home hero image", type: "image", help: "One high-quality industrial / product photograph." },
+    { name: "facebook", label: "Facebook page URL", type: "text", half: true, placeholder: "https://www.facebook.com/yourpage", help: "Leave empty to hide the icon." },
+  { name: "instagram", label: "Instagram URL", type: "text", half: true, placeholder: "https://www.instagram.com/yourhandle" },
+  { name: "twitter", label: "X (Twitter) URL", type: "text", half: true, placeholder: "https://x.com/yourhandle" },
+  { name: "linkedin", label: "LinkedIn URL", type: "text", half: true, placeholder: "https://www.linkedin.com/company/yourcompany" },
+  { name: "youtube", label: "YouTube channel URL", type: "text", half: true, placeholder: "https://www.youtube.com/@yourchannel" },
   { name: "ksbImageUrl", label: "KSB section image", type: "image", help: "Use only KSB-permitted imagery." },
   { name: "aboutImageUrl", label: "About section image", type: "image" },
 ];

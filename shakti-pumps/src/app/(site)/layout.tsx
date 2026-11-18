@@ -6,7 +6,7 @@ import { getCategories } from "@/lib/queries";
 import { getSettings } from "@/lib/settings";
 import { CookieConsent } from "@/components/site/CookieConsent";
 import { siteUrl } from "@/lib/seo";
-
+import { WhatsAppButton } from "@/components/site/WhatsAppButton";
 
 export const revalidate = 60;
 
@@ -22,6 +22,7 @@ export default async function SiteLayout({ children }: { children: React.ReactNo
       <main id="main">{children}</main>
       <Footer s={s} categories={categories} />
       <StickyContact phone={s.phone} whatsapp={s.whatsapp} />
+        <WhatsAppButton whatsapp={s.whatsapp} />
       <CookieConsent gaId={process.env.NEXT_PUBLIC_GA_ID} />
       <JsonLd
         data={{
